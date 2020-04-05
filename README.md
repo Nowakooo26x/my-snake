@@ -1,1 +1,1 @@
-"# my-snake" 
+# My snake
